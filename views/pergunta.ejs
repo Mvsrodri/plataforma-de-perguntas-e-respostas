@@ -8,7 +8,7 @@
         <hr>
         <form method="POST" action="/responder">
             <label >Resposta</label>
-            <textarea name="corpo" id="" cols="30" rows="10" placeholder="Insira sua resposta"  class="form-control"></textarea>
+            <textarea name="corpo" id="" cols="30" rows="10" placeholder="Insira sua resposta"  class="form-control" required></textarea>
             <br>
             <input name="idPergunta" type="hidden" class="form-control" value="<%= pergunta.id %>">
             
