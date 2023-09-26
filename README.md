@@ -26,20 +26,19 @@
 > Desktop
 >
 
-![perguntas - inicial](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/150da46e-f107-45f4-b21e-45f3f9e8db86)
-![perguntas - form](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/3edd8eb8-44c4-4359-8f40-9985e3964f1c)
-![respostas](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/6e659217-294d-401d-9ee4-56f9ef977d77)
+![perguntas - inicial](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/41565b09-aa3e-4fdf-83b6-2ce623dbd85e)
+![respostas](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/01288a61-4029-4ff6-84e6-081363cc9d17)
+![perguntas - form](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/d746dcc8-c345-4acf-91b2-e1f4fc70f0af)
 
 <br><br>
 
 > Mobile
 > 
 
-![perguntas - inicial - mobile](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/c31ca449-b3f9-4333-9bf8-a0307524e39b)
-![respostas - mobile](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/d726ab88-8cb6-4c7a-9eeb-60230edc39a4)
-![perguntas - form - mobile](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/92378599-afb2-4c8f-8b1e-ea30939afbce)
+![perguntas - inicial - mobile](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/bcca50cf-3229-4538-9bfd-6a01f8dc876f)
+![respostas - mobile](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/bf70053a-bdac-4d9f-9ace-db12a68cac1a)
+![perguntas - form - mobile](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/2bc3e335-e4e5-490f-9ded-b6cb94f20191)
 
-    
 ##
 
 <div align="left">
