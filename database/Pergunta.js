@@ -1,7 +1,10 @@
 const Sequelize = require("sequelize");
 const connection = require("./database");
 
-const Pergunta = connection.define('pergunta',{
+var dotenv = require('dotenv');
+dotenv.config();
+
+const Pergunta = connection.define(process.env.NAME_TABLE_QUESTION,{
     titulo:{
         type: Sequelize.STRING,
         allowNull: false
