@@ -3,6 +3,8 @@ const app = express(); // iniciando o express
 const bodyParser = require("body-parser");
 const connection = require("./database/database");
 
+var dotenv = require('dotenv');
+dotenv.config();
 //Database
 
 connection
@@ -23,6 +25,6 @@ app.use(bodyParser.json());
 //apontando as rotas
 app.use('/', require("./routes/routes"));
 
-app.listen(8080, ()=>{
+app.listen(process.env.LOCALHOST_PORT, ()=>{
     console.log("Running...");
 })
