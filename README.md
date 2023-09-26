@@ -24,21 +24,22 @@
  <br>
 
 > Desktop
-> 
-<div style="display= "flex"; justify-content: "space-between"; ">
-    ![perguntas - inicial](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/150da46e-f107-45f4-b21e-45f3f9e8db86)
-    ![perguntas - form](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/3edd8eb8-44c4-4359-8f40-9985e3964f1c)
-    ![respostas](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/6e659217-294d-401d-9ee4-56f9ef977d77)
-</div>
+>
+
+![perguntas - inicial](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/150da46e-f107-45f4-b21e-45f3f9e8db86)
+![perguntas - form](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/3edd8eb8-44c4-4359-8f40-9985e3964f1c)
+![respostas](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/6e659217-294d-401d-9ee4-56f9ef977d77)
 
 <br><br>
 
 > Mobile
 > 
 <div style="display= "flex"; justify-content: "space-between"; ">
+  
     ![perguntas - inicial - mobile](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/c31ca449-b3f9-4333-9bf8-a0307524e39b)
     ![perguntas - form - mobile](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/92378599-afb2-4c8f-8b1e-ea30939afbce)
     ![respostas - mobile](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/d726ab88-8cb6-4c7a-9eeb-60230edc39a4)
+    
 </div>
 
 ##
