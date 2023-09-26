@@ -3,9 +3,11 @@ const router = express.Router();
 
 const Pergunta = require("../database/Pergunta");
 const Resposta = require("../database/Resposta");
+const formatarData = require("../public/js/data");
 
 router.get("/",(req,res)=>{
-
+    res.locals.formatarData = formatarData;
+   
     Pergunta.findAll({raw:true, order:[
         ['id','DESC']
     ]}).then(perguntas =>{
@@ -33,6 +35,7 @@ router.post("/salvarpergunta",(req,res)=>{
 });
 
 router.get("/pergunta/:id",(req,res)=>{
+    res.locals.formatarData = formatarData;
     var id = req.params.id;
 
     Pergunta.findOne({
