@@ -36,8 +36,9 @@
 > 
 
 ![perguntas - inicial - mobile](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/c31ca449-b3f9-4333-9bf8-a0307524e39b)
-![perguntas - form - mobile](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/92378599-afb2-4c8f-8b1e-ea30939afbce)
 ![respostas - mobile](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/d726ab88-8cb6-4c7a-9eeb-60230edc39a4)
+![perguntas - form - mobile](https://github.com/Mvsrodri/plataforma-de-perguntas-e-respostas/assets/38968106/92378599-afb2-4c8f-8b1e-ea30939afbce)
+
     
 ##
 
